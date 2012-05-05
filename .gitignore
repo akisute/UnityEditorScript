@@ -1,0 +1,11 @@
+# Mac OS X garbage files
+.DS_Store
+
+# Unity garbage files
+/Library
+
+# MonoDevelop garbage files
+*.sln
+*.userprefs
+*.csproj
+*.pidb
